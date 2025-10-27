@@ -25,7 +25,7 @@
     ```
 ---
 
-## ⚙️ فرآیند و متدولوژی (Workflow)
+##  فرآیند و متدولوژی (Workflow)
 
 ### ۱. خط لوله‌ی داده بهینه (`tf.data`)
 به جای `ImageDataGenerator`، از `tf.keras.utils.image_dataset_from_directory` برای بارگذاری مستقیم داده‌ها از دیسک استفاده شد.
